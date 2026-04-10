@@ -14,6 +14,6 @@
 
 -Difficulty modes.
 
--Options Menu with Resolution, Windowmode, framerate, daltosim, language, sound volume and more.
+-Options Menu with Resolution, Windowmode, framerate, daltosim, language, sound volume and shadows quality.
 
 -100% Made in Blueprints
