@@ -1,19 +1,19 @@
 #Work done during degree studies in Virtual Reality Simulators.
 
-Ureal 5 recreation of the Harry Potter PS1 game
+-Ureal 5 recreation of the Harry Potter PS1 game
 
-UI & Menu Implementation
+-UI & Menu Implementation
 
-Audio System
+-Audio System
 
-Moving Traps
+-Moving Traps
 
-Item Spawner
+-Item Spawner
 
-Location (English/Spanish)
+-Location (English/Spanish)
 
-Difficulty modes.
+-Difficulty modes.
 
-Options Menu with Resolution, Windowmode, framerate, daltosim, language, sound volume and more.
+-Options Menu with Resolution, Windowmode, framerate, daltosim, language, sound volume and more.
 
-100% Made in Blueprints
+-100% Made in Blueprints
