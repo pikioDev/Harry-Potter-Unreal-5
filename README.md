@@ -8,9 +8,9 @@
 
 -Moving Traps
 
--Item Spawner
+-Items Spawner
 
--Location (English/Spanish)
+-Locatlizaion (English/Spanish)
 
 -Difficulty modes.
 
