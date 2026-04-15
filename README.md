@@ -2,19 +2,21 @@
 
 Main features I made:
 
--Audio system with CUE´s to randomize repetitive actions.
+-HEALTH COMPONENT: Modular and reusable component that allowed me to apply it to both the player and enemies or traps (like the lava floor), using events to handle death and visual feedback, such as dynamic materials to show vulnerability.
+
+-LOCALIZATION DASHBOARD: I worked with this tool, which allowed me to switch between English and Spanish at runtime, allowing the player to see the changes in the user interface without needing to restart the game.
+
+-DIFFICULTY MODE: A system based on a single DataTable. Objects consult it to adjust variables values.
+
+-UI & MENUS: I implemented a system that allows access to the same Blueprint of options from the Main Menu or the paused game, ensuring consistency.
+
+-GAME AUDIO: system with CUE´s to randomize repetitive actions.
 
 -Moving Traps and lava floor.
 
 -Enemies and items Spawners.
 
--Localization. (English/Spanish)
-
--3 Difficulty modes. (Data Table)
-
--UI & Menus.
-
 -Options menu with Resolution, Windowmode, framerate, 
-color-blindness, language, sound volume and shadows quality.
+color-blindness, language, sound volume and shadows quality
 
 -100% Made in Blueprints.
